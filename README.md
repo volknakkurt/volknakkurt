@@ -3,6 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Software Developer & Data Scientist
 -----------------------------------
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=volknakkurt" alt="volknakkurt" /></a> </p>
 
 A highly skilled software developer with a passion for innovation and a strong background in Odoo, Python, JavaScript, and DevOps practices. Possesses a master's degree in Digital Topology and Graph Theory, along with certifications in .Net Core, Artificial Intelligence, and Python. Expertise in designing and implementing user-friendly interfaces, customizing modules, integrating with third-party applications, and managing SQL and NoSQL databases. Continuously seeks out new technologies and advancements to expand skillset.
 
